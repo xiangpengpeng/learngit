@@ -10,8 +10,7 @@ int main()
 	
 	printf("%s\n",buf);
 	printf("learning git");
-	printf("learning git");
-	//test branch
+	//test remote
 	
 	
 	return 0;
