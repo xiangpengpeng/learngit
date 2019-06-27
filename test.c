@@ -8,7 +8,8 @@ int main()
 	
 	printf("size == %d\n",size);
 	
-		printf("%s\n",buf);
+	printf("%s\n",buf);
+	printf("learning git");
 	
 	
 	return 0;
