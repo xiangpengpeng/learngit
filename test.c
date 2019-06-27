@@ -10,7 +10,7 @@ int main()
 	
 	printf("%s\n",buf);
 	printf("learning git");
-	//test remote
+	//test at home
 	
 	
 	return 0;
