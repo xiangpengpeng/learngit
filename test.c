@@ -10,6 +10,7 @@ int main()
 	
 	printf("%s\n",buf);
 	printf("learning git");
+	printf("learning git");
 	
 	
 	return 0;
