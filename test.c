@@ -11,7 +11,7 @@ int main()
 	printf("%s\n",buf);
 	printf("learning git");
 	//test at home3
-	
+	//test xx
 	
 	return 0;
 }
